@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hemant Ajay Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantwd&label=Profile%20views&color=0e75b6&style=flat" alt="hemantwd" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantWD&label=Profile%20views&color=0e75b6&style=flat" alt="hemantwd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantwd" alt="hemantwd" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HemantWD" alt="hemantwd" /></a> </p> -->
 
 - 🌱 I’m currently learning **REACTJS || JAVASCRIPT || MONGODB|| NODEJS || EXPRESS.JS**
 
