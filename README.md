@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HemantWD](https://github.com/HemantWD)
 
-- 💬 Ask me about **react, javascript, mongodb, nodejs,express.js**
+- 💬 Ask me about **HTML, CSS, React, JavaScript, Mongodb, Nodejs, Express.js**
 
 - 📫 How to reach me **Hemantajaysharma@gmail.com**
 
