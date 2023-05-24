@@ -20,7 +20,7 @@
 <a href="https://twitter.com/honey016993927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="honey016993927" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hemant-ajay-sharma-694684252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant-ajay-sharma-694684252/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdvw1xhcri5ci3giavikx1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdvw1xhcri5ci3giavikx1g" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/hemantajaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hemantajaysharma" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hemantwd/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://auth.geeksforgeeks.org/user/hemantwd/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
